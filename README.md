@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Keerthana-webdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Keerthana-webdev&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keerthana-webdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-webdev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthana-webdev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Keerthana-webdev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-webdev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-webdev&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
