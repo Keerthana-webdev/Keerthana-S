@@ -14,9 +14,9 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 - 🚀 Aspiring <b>Software Engineer & Full Stack Developer</b><br><br>
-- 🎓 B.Tech Information Technology @ <b>CMR University (2027)</b><br><br>
+- 🎓 B.Tech Information Technology @ <b>CMR University </b><br><br>
 - 📈 Current CGPA: <b>9.19 / 10</b><br><br>
 - 👨‍💻 Portfolio → <a href="https://portfolio-virid-seven-81.vercel.app/">Portfolio Website</a><br><br>
 - 📫 Reach me → <a href="mailto:yashodhakeerthi19@gmail.com"><b>yashodhakeerthi19@gmail.com</b></a>
@@ -28,26 +28,40 @@
 </tr>
 </table>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="www.linkedin.com/in/keerthana-s-926009301">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+</td>
 
-<a href="https://github.com/Keerthana-webdev">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<td width="50"></td>
+
+<td align="center">
+<a href="https://leetcode.com/u/keerthana-webdev/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"/>
 </a>
+</td>
 
+<td width="50"></td>
+
+<td align="center">
 <a href="mailto:yashodhakeerthi19@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-
+</td>
+</tr>
+</table>
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
