@@ -75,19 +75,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Code-Daily-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Grinding-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Building-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-AI%20%7C%20MERN-purple?style=for-the-badge"/>
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
