@@ -15,10 +15,10 @@
 <tr>
 
 <td width="60%" valign="top">
-* 🎓 B.Tech Information Technology @ CMR University
+* 🎓 **B.Tech Information Technology @ CMR University**
 * 📈 CGPA: **9.19 / 10**
 * 🌱 Currently learning **Advanced React, Node.js, AI & Machine Learning**
-* 💡 Passionate about solving real-world problems through software
+* 💡 **Passionate about solving real-world problems through software**
 * 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/
 * 📫 Reach me → **yashodhakeerthi19@gmail.com**
 </td>
