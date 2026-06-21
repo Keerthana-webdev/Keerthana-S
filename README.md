@@ -11,16 +11,15 @@
 ---
 
 ## 👩‍💻 About Me
+
 <table>
 <tr>
-
 <td width="60%" valign="top">
-- 🎓 **B.Tech Information Technology @ CMR University**
-- 📈 CGPA: **9.19 / 10**
-- 🌱 Currently learning **Advanced React, Node.js, AI & Machine Learning**
-- 💡 **Passionate about solving real-world problems through software**
-- 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/
-- 📫 Reach me → **yashodhakeerthi19@gmail.com**
+* 🚀 Aspiring **Software Engineer & Full Stack Developer**
+* 🎓 B.Tech Information Technology @ **CMR University (2027)**
+* 📈 Current CGPA: **9.19 / 10**
+* 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/
+* 📫 Reach me → **[yashodhakeerthi19@gmail.com](mailto:yashodhakeerthi19@gmail.com)**
 </td>
 
 <td width="40%" align="center">
@@ -54,9 +53,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  
   <img src="https://skillicons.dev/icons?i=python,javascript,java,react,html,css,tailwind,vite,nodejs,express,flask,mongodb,mysql,git,github,vscode,postman,vercel&perline=18" />
-  
 </p>
 
 ---
@@ -64,11 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Keerthana-webdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Keerthana-webdev&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -76,9 +70,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthana-webdev&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -86,9 +78,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-webdev&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -96,9 +86,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/Keerthana-webdev?theme=dark&font=Karma"/>
-
 </p>
 
 ---
@@ -106,8 +94,6 @@
 ## ✨ Developer Motto
 
 <p align="center">
-
 💡 **Build •  Learn • Improve • Repeat**
-
 </p>
 
