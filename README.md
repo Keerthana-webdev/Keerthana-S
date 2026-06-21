@@ -19,7 +19,7 @@
 * 🎓 B.Tech Information Technology @ **CMR University (2027)**<br><br>
 * 📈 Current CGPA: **9.19 / 10**<br><br>
 * 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/<br><br>
-* 📫 Reach me → **yashodhakeerthi19@gmail.com**<br><br>
+* 📫 Reach me → **yashodhakeerthi19@gmail.com**
 </td>
 
 <td width="40%" align="center">
