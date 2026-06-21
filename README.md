@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 - 🚀 Aspiring <b>Software Engineer & Full Stack Developer</b><br><br>
 - 🎓 B.Tech Information Technology @ <b>CMR University </b><br><br>
 - 📈 Current CGPA: <b>9.19 / 10</b><br><br>
@@ -22,7 +22,7 @@
 - 📫 Reach me → <a href="mailto:yashodhakeerthi19@gmail.com"><b>yashodhakeerthi19@gmail.com</b></a>
 </td>
 
-<td width="40%" align="center">
+<td width="30%" align="center">
 <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="250">
 </td>
 </tr>
@@ -106,6 +106,7 @@
 ## ✨ Developer Motto
 
 <p align="center">
-💡 **Build •  Learn • Improve • Repeat**
+  
+💡  **Build •  Learn • Improve • Repeat**
 </p>
 
