@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<table>
+<table align="center">
 <tr>
 <td width="80%" valign="top">
 - 🚀 Aspiring <b>Software Engineer & Full Stack Developer</b><br><br>
