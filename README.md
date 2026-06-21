@@ -15,20 +15,18 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-* 🚀 Aspiring **Software Engineer & Full Stack Developer**<br><br>
-* 🎓 B.Tech Information Technology @ **CMR University (2027)**<br><br>
-* 📈 Current CGPA: **9.19 / 10**<br><br>
-* 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/<br><br>
-* 📫 Reach me → **[yashodhakeerthi19@gmail.com](mailto:yashodhakeerthi19@gmail.com)**
+🚀 Aspiring <b>Software Engineer & Full Stack Developer</b><br><br>
+🎓 B.Tech Information Technology @ <b>CMR University (2027)</b><br><br>
+📈 Current CGPA: <b>9.19 / 10</b><br><br>
+👨‍💻 Portfolio → <a href="https://portfolio-virid-seven-81.vercel.app/">Portfolio Website</a><br><br>
+📫 Reach me → <a href="mailto:yashodhakeerthi19@gmail.com"><b>yashodhakeerthi19@gmail.com</b></a>
 </td>
 
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="250">
 </td>
 </tr>
 </table>
-
----
 
 ## 🌐 Connect With Me
 
