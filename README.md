@@ -11,13 +11,23 @@
 ---
 
 ## 👩‍💻 About Me
+<table>
+<tr>
 
+<td width="60%" valign="top">
 * 🎓 B.Tech Information Technology @ CMR University
 * 📈 CGPA: **9.19 / 10**
 * 🌱 Currently learning **Advanced React, Node.js, AI & Machine Learning**
 * 💡 Passionate about solving real-world problems through software
 * 👨‍💻 Portfolio → https://portfolio-virid-seven-81.vercel.app/
 * 📫 Reach me → **yashodhakeerthi19@gmail.com**
+</td>
+
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -117,17 +127,11 @@
 
 ---
 
-## 👀 Profile Visitors
+## ✨ Developer Motto
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Keerthana-webdev&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+💡 **Build •  Learn • Improve • Repeat**
 
 </p>
-
----
-
-## ✨ Developer Motto
-
-> "Build. Learn. Improve. Repeat."
 
